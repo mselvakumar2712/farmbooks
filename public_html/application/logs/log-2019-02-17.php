@@ -1,0 +1,16 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-02-17 10:08:16 --> Query error: Column 'holder_id' cannot be null - Invalid query: INSERT INTO `trv_share_allotment` (`fpo_id`, `allotment_nature`, `resolution_number`, `resolution_date`, `member_type`, `holder_id`, `folio_number`, `new_share`, `total_share_value`, `allotted_date`, `transfer_date`, `status`) VALUES ('5', 10001, 10001, '2019-02-17 10:08:16', 1, NULL, 10001, NULL, NULL, '2019-02-17 10:08:16', '2019-02-17 10:08:16', 1)
+ERROR - 2019-02-17 10:08:56 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/easzapps/public_html/UAT/fpo/application/modules/fpo/views/market/sales/maintenance/customers.php 310
+ERROR - 2019-02-17 10:10:13 --> Severity: Notice --> Use of undefined constant php - assumed 'php' /home/easzapps/public_html/UAT/fpo/application/modules/fpo/views/market/sales/maintenance/customers.php 310
+ERROR - 2019-02-17 10:14:18 --> Severity: Notice --> Trying to get property of non-object /home/easzapps/public_html/UAT/fpo/application/models/Customer_Model.php 921
+ERROR - 2019-02-17 10:15:12 --> Severity: Notice --> Undefined variable: openingBalance /home/easzapps/public_html/UAT/fpo/application/modules/fpo/views/finance/banking/inquiries_reports/balance_sheet_drilldown.php 81
+ERROR - 2019-02-17 10:15:12 --> Severity: Notice --> Undefined variable: assetCost /home/easzapps/public_html/UAT/fpo/application/modules/fpo/views/finance/banking/inquiries_reports/balance_sheet_drilldown.php 120
+ERROR - 2019-02-17 10:15:12 --> Severity: Notice --> Undefined variable: assetCost /home/easzapps/public_html/UAT/fpo/application/modules/fpo/views/finance/banking/inquiries_reports/balance_sheet_drilldown.php 120
+ERROR - 2019-02-17 10:15:12 --> Severity: Notice --> Undefined variable: liablityCost /home/easzapps/public_html/UAT/fpo/application/modules/fpo/views/finance/banking/inquiries_reports/balance_sheet_drilldown.php 169
+ERROR - 2019-02-17 10:15:12 --> Severity: Notice --> Undefined variable: liablityCost /home/easzapps/public_html/UAT/fpo/application/modules/fpo/views/finance/banking/inquiries_reports/balance_sheet_drilldown.php 169
+ERROR - 2019-02-17 10:19:29 --> Severity: Notice --> Undefined variable: openingBalance /home/easzapps/public_html/UAT/fpo/application/modules/fpo/views/finance/banking/inquiries_reports/balance_sheet_drilldown.php 81
+ERROR - 2019-02-17 10:19:29 --> Severity: Notice --> Undefined variable: assetCost /home/easzapps/public_html/UAT/fpo/application/modules/fpo/views/finance/banking/inquiries_reports/balance_sheet_drilldown.php 120
+ERROR - 2019-02-17 10:19:29 --> Severity: Notice --> Undefined variable: assetCost /home/easzapps/public_html/UAT/fpo/application/modules/fpo/views/finance/banking/inquiries_reports/balance_sheet_drilldown.php 120
+ERROR - 2019-02-17 10:19:29 --> Severity: Notice --> Undefined variable: liablityCost /home/easzapps/public_html/UAT/fpo/application/modules/fpo/views/finance/banking/inquiries_reports/balance_sheet_drilldown.php 169
+ERROR - 2019-02-17 10:19:29 --> Severity: Notice --> Undefined variable: liablityCost /home/easzapps/public_html/UAT/fpo/application/modules/fpo/views/finance/banking/inquiries_reports/balance_sheet_drilldown.php 169

@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-01-27 01:31:06 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:20 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:21 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:22 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:23 --> 404 Page Not Found: ../modules/home/controllers/Home/wp-login.php
+ERROR - 2020-01-27 01:37:24 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:24 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:25 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:26 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:26 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:27 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:28 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:28 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:29 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:30 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:30 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:31 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:31 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:32 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:33 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:33 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 01:37:34 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 02:34:32 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 02:34:36 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 02:34:37 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 02:34:39 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 05:37:19 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 05:37:21 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 05:44:03 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 15:56:40 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 17:17:59 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 21:29:04 --> 404 Page Not Found: /index
+ERROR - 2020-01-27 21:29:06 --> 404 Page Not Found: /index
